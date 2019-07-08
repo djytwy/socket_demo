@@ -1,0 +1,4 @@
+# socket_demo
+一些关于socket通信的demo，有python的，有js的
+python下使用的是socket库和socketserver
+js下使用的是ws包
